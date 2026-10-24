@@ -1,0 +1,9 @@
+build/
+.xmake/
+lib/
+papyrus/out/
+.vs/
+*.pdb
+*.dll
+*.pex
+__pycache__/
